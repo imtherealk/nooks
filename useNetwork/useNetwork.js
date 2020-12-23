@@ -7,6 +7,7 @@ const useNetwork = (onChange) => {
     }
     setStatus(navigator.onLine);
   };
+
   useEffect(() => {
     window.addEventListener("online", handleChange);
     window.addEventListener("offline", handleChange);

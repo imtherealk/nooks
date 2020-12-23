@@ -1,1 +1,1 @@
-import { useConfirm } from "./useConfirm";
+export { useClick as default } from "./useClick";
