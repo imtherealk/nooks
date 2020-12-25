@@ -1,5 +1,5 @@
 {
-  "name": "@nooks/use-axios",
+  "name": "@nooks-practice/use-axios",
   "version": "1.0.0",
   "description": "React Hook to use Axios",
   "main": "index.js",
