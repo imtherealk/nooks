@@ -1,4 +1,4 @@
-const useNetwork = (onChange) => {
+export const useNetwork = (onChange) => {
   const [status, setStatus] = useState(navigator.onLine);
 
   const handleChange = () => {
