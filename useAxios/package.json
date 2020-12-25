@@ -1,11 +1,11 @@
 {
   "name": "@nooks-practice/use-axios",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Hook to use Axios",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imtherealk/nooks.git"
+    "url": "git+https://github.com/imtherealk/nooks-practice.git"
   },
   "keywords": [
     "react",
@@ -16,9 +16,9 @@
   "author": "Margot <imtherealk@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imtherealk/nooks/issues"
+    "url": "https://github.com/imtherealk/nooks-practice/issues"
   },
-  "homepage": "https://github.com/imtherealk/nooks#readme",
+  "homepage": "https://github.com/imtherealk/nooks-practice#readme",
   "peerDependencies": {
     "axios": "^0.21.1",
     "react": "^17.0.1",
